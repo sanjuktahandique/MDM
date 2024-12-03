@@ -1,5 +1,5 @@
 # Mid-Day Meal Regulation System
-•	Developed for a government school in Dibrugarh
+
 –	Stock and transaction expenditure management
 –	Records Students Attendance
 –	Creates a final report every month
